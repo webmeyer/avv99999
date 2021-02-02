@@ -1,0 +1,439 @@
+1606996733246	geckodriver	INFO	Listening on 127.0.0.1:50355
+1606996733258	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileHDlOVn"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606996736878	Marionette	INFO	Listening on port 50360
+1606996736968	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+1606996889767	geckodriver	INFO	Listening on 127.0.0.1:50473
+1606996890284	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile9x0VON"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606996893587	Marionette	INFO	Listening on port 50478
+1606996893998	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606996944043	Marionette	INFO	Stopped listening on port 50478
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606996949992	geckodriver	INFO	Listening on 127.0.0.1:50539
+1606996950005	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileFMC3oT"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606996953321	Marionette	INFO	Listening on port 50544
+1606996953721	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+console.error: "Error while calling actor 'domwalker's method 'editTagName'" "Could not change node's tagName to "
+console.error: "editTagName@resource://devtools/server/actors/inspector/walker.js:1930:9\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+1606997240168	Marionette	INFO	Stopped listening on port 50544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606997369881	geckodriver	INFO	Listening on 127.0.0.1:50700
+1606997370396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileACaF3C"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606997373800	Marionette	INFO	Listening on port 50705
+1606997374100	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 29: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 29: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 29: TypeError: q.WeakMap is not a constructor
+[Child 1708, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1606997488106	Marionette	INFO	Stopped listening on port 50705
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606997536589	geckodriver	INFO	Listening on 127.0.0.1:50853
+1606997537107	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileCSe6iv"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606997540205	Marionette	INFO	Listening on port 50858
+1606997540308	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 29: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 29: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 29: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 29: TypeError: q.WeakMap is not a constructor
+1606998037250	geckodriver	INFO	Listening on 127.0.0.1:51021
+1606998037263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilerimAQo"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606998040443	Marionette	INFO	Listening on port 51026
+1606998040473	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 29: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 29: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 29: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 29: TypeError: q.WeakMap is not a constructor
+console.error: "Error writing request: getGrids"
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 29: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 29: TypeError: q.WeakMap is not a constructor
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 29: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 29: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606998420255	Marionette	INFO	Stopped listening on port 51026
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606998450984	geckodriver	INFO	Listening on 127.0.0.1:51215
+1606998451497	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilecntAir"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606998454771	Marionette	INFO	Listening on port 51220
+1606998455212	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+1606998694914	Marionette	INFO	Stopped listening on port 51220
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+emp\\rust_mozprofilepIU3hH"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606998545841	Marionette	INFO	Listening on port 51339
+1606998546360	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+1606998753224	geckodriver	INFO	Listening on 127.0.0.1:51630
+1606998753746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileFMQOZF"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606998755943	Marionette	INFO	Listening on port 51635
+1606998756443	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 29: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 29: TypeError: q.WeakMap is not a constructor
+1606999136420	geckodriver	INFO	Listening on 127.0.0.1:51800
+1606999136940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile9QhHtL"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606999139249	Marionette	INFO	Listening on port 51805
+1606999139637	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 29: TypeError: q.WeakMap is not a constructor
+1606999217646	geckodriver	INFO	Listening on 127.0.0.1:51884
+1606999217659	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileS64HDd"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606999219630	Marionette	INFO	Listening on port 51889
+1606999219750	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 29: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 29: TypeError: q.WeakMap is not a constructor
+1606999270494	geckodriver	INFO	Listening on 127.0.0.1:51973
+1606999270504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileaijoiz"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606999272477	Marionette	INFO	Listening on port 51978
+1606999272571	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 29: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 29: TypeError: q.WeakMap is not a constructor
+1606999323062	geckodriver	INFO	Listening on 127.0.0.1:52078
+1606999323074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileBdngpm"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606999325098	Marionette	INFO	Listening on port 52083
+1606999325160	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606999333269	geckodriver	INFO	Listening on 127.0.0.1:52140
+1606999333279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileSnWep6"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606999335368	Marionette	INFO	Listening on port 52145
+1606999335466	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 29: TypeError: q.WeakMap is not a constructor
+1606999357894	geckodriver	INFO	Listening on 127.0.0.1:52223
+1606999358409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile59inkn"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606999360413	Marionette	INFO	Listening on port 52228
+1606999360480	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+1606999725151	Marionette	INFO	Stopped listening on port 52228
+1612233348380	geckodriver	INFO	Listening on 127.0.0.1:52236
+1612233351420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DDF28~1.MEY\\AppData\\Local\\Temp\\rust_mozprofilexY75F5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612233354393	Marionette	INFO	Listening on port 52245
+1612233354598	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612234626308	geckodriver	INFO	Listening on 127.0.0.1:57931
+1612234629344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DDF28~1.MEY\\AppData\\Local\\Temp\\rust_mozprofileQlxsvl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612234632185	Marionette	INFO	Listening on port 57941
+1612234632543	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1612234639173	Marionette	INFO	Stopped listening on port 57941
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612238669158	geckodriver	INFO	Listening on 127.0.0.1:61200
+1612238672143	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DDF28~1.MEY\\AppData\\Local\\Temp\\rust_mozprofilegFvcyK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612238675625	Marionette	INFO	Listening on port 61209
+1612238675854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612238942642	geckodriver	INFO	Listening on 127.0.0.1:61356
+1612238945665	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DDF28~1.MEY\\AppData\\Local\\Temp\\rust_mozprofile8MExEP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612238947981	Marionette	INFO	Listening on port 61370
+1612238948350	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 5692, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Child 5692, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1612238976124	Marionette	INFO	Stopped listening on port 61370
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612239184718	geckodriver	INFO	Listening on 127.0.0.1:61557
+1612239187790	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DDF28~1.MEY\\AppData\\Local\\Temp\\rust_mozprofilecAFqt3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612239189892	Marionette	INFO	Listening on port 61568
+1612239189971	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612239258118	Marionette	INFO	Stopped listening on port 61568
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612239259968	geckodriver	INFO	Listening on 127.0.0.1:61688
+1612239263016	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DDF28~1.MEY\\AppData\\Local\\Temp\\rust_mozprofileUgMAvo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612239265149	Marionette	INFO	Listening on port 61697
+1612239265179	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1612239286149	Marionette	INFO	Stopped listening on port 61697
+
+###!!! [Child][RunMessageJavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1612239294669	Marionette	INFO	Stopped listening on port 61789
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612240698685	geckodriver	INFO	Listening on 127.0.0.1:62626
+1612240701744	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DDF28~1.MEY\\AppData\\Local\\Temp\\rust_mozprofileEFKUmE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612240703564	Marionette	INFO	Listening on port 62639
+1612240703792	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612240720896	Marionette	INFO	Stopped listening on port 62639
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DDF28~1.MEY\\AppData\\Local\\Temp\\rust_mozprofilezt3pS5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612240713665	Marionette	INFO	Listening on port 62730
+1612240713801	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612240737611	Marionette	INFO	Stopped listening on port 62730
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ust_mozprofileiMHY2I"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612240727903	Marionette	INFO	Listening on port 62832
+1612240728018	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612240734874	geckodriver	INFO	Listening on 127.0.0.1:62906
+1612240737896	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DDF28~1.MEY\\AppData\\Local\\Temp\\rust_mozprofileYieKGD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612240739755	Marionette	INFO	Listening on port 62919
+1612240739977	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1612240748705	Marionette	INFO	Stopped listening on port 62919
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612240749530	geckodriver	INFO	Listening on 127.0.0.1:63018
+1612241235883	geckodriver	INFO	Listening on 127.0.0.1:63648
+1612241238912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DDF28~1.MEY\\AppData\\Local\\Temp\\rust_mozprofileSubfIv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612241240769	Marionette	INFO	Listening on port 63662
+1612241240975	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+#console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612241288926	Marionette	INFO	Listening on port 63777
+1612241289345	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+1612241439224	Marionette	INFO	Stopped listening on port 63777
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+INFO	Stopped listening on port 63662
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612241440337	geckodriver	INFO	Listening on 127.0.0.1:63957
+1612241443367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DDF28~1.MEY\\AppData\\Local\\Temp\\rust_mozprofileoFDa8g"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612241445121	Marionette	INFO	Listening on port 63966
+1612241445443	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 6: TypeError: m.WeakMap is not a constructor
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 28: TypeError: q.WeakMap is not a constructor
+1612241529726	Marionette	INFO	Stopped listening on port 63966
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

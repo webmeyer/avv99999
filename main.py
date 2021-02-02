@@ -10,12 +10,11 @@ from selenium.common.exceptions import NoSuchElementException
 
 
 def set_browser_settings():   # НАСТРОЙКИ БРАУЗЕРА
-    # НАСТРОЙКИ
     ua = '''Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) 
-            AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36'''  # Юзерагент, вставляется одной строкой
+            AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36'''   # юзерагент, вставляется одной строкой
     option = webdriver.FirefoxOptions()
     option.set_preference('dom.webdriver.enabled', False)  # скрывает автоматизацию
-    # headless = option.add_argument("--headless")  # работа в фоновом режиме без запуска окна браузера (# = ВЫКЛ)
+    # headless = option.add_argument("--headless")   # работа в фоновом режиме без запуска окна браузера (# = ВЫКЛ)
     return option
 
 def account_get():
@@ -67,7 +66,7 @@ def check_present(_browser, _email):   # ПРОВЕРЯЕМ НАЛИЧИЕ ПО�
         print('Здесь подарка нет :(')
         time.sleep(1)
 
-def check_winter_event(_browser):   # ПРОВЕРЯЕМ НАЛИЧИЕ ОКНА ЗИМНЕГО ИВЕНТА!!!
+def check_winter_event(_browser):   # ПРОВЕРЯЕМ НАЛИЧИЕ ОКНА ЗИМНЕГО ИВЕНТА
     try:
         winter_event = _browser.find_element_by_xpath('//button["@id=go-to-event-button"]')
     except NoSuchElementException:
@@ -80,6 +79,9 @@ def check_winter_event(_browser):   # ПРОВЕРЯЕМ НАЛИЧИЕ ОКНА
             time.sleep(2)
             _browser.refresh()
             time.sleep(1)
+        else:
+            print('Окна с ивентом нет')
+            time.sleep(1)
 
 def browser_clear_cookies_and_refresh(_browser, _url):   # ЧИСТИМ КУКИ И ПЕРЕЗАХОДИМ НА СТРАНИЦУ
 
@@ -91,6 +93,7 @@ def browser_clear_cookies_and_refresh(_browser, _url):   # ЧИСТИМ КУКИ
 
 def main():
 
+    # ПОЛУЧИЛИ АКК И ПОСТАВИЛИ НАСТРОЙКИ БРАУЗЕРА
     account_get()
     set_browser_settings()
 

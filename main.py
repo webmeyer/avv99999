@@ -55,7 +55,7 @@ def check_modal(_browser):   # ПРОВЕРЯЕМ МОДАЛКУ С НОВЫМ �
 
 def check_present(_browser, _email):   # ПРОВЕРЯЕМ НАЛИЧИЕ ПОДАРКА
     getGift = _browser.find_element_by_xpath(
-        '//div[@id="daily-gift-container"]')  # элемент всегда есть в коде страницы, после нажатия становится display:none
+        '//div[@id="daily-gift-container"]')  # элемент всегда есть в коде страницы, после нажатия на подарок становится display:none
     if (getGift.is_displayed()):
         getGift.click()
         time.sleep(3)
@@ -84,7 +84,6 @@ def check_winter_event(_browser):   # ПРОВЕРЯЕМ НАЛИЧИЕ ОКНА
             time.sleep(1)
 
 def browser_clear_cookies_and_refresh(_browser, _url):   # ЧИСТИМ КУКИ И ПЕРЕЗАХОДИМ НА СТРАНИЦУ
-
     print('Чистим куки')
     _browser.delete_all_cookies()
     _browser.get(_url)
@@ -92,12 +91,8 @@ def browser_clear_cookies_and_refresh(_browser, _url):   # ЧИСТИМ КУКИ
     print('*' * 10)
 
 def main():
-
-    # ПОЛУЧИЛИ АКК И ПОСТАВИЛИ НАСТРОЙКИ БРАУЗЕРА
-    account_get()
-    set_browser_settings()
-
     # ЗАПУСК БРАУЗЕРА
+    set_browser_settings()
     url = 'https://www.eldarya.ru/login'  # адрес сайта, куда пойдем
     browser = webdriver.Firefox(options=set_browser_settings())
     browser.get(url)  # переход на страницу из переменной url
@@ -121,4 +116,4 @@ def main():
     browser.quit()  # Закрываем процесс webdriver
     print('Акки закончились! Программа завершена!', sep='')
 
-main()
+main()   # Запуск программы

@@ -4,7 +4,6 @@
 > *Стек: Python3 + Selenium + WebDriver* <br />
 > *Контакты для связи:* <br />
 > [Telegram](https://t.me/meyerwork) / meyerwork22@gmail.com
->
 
 Основной функционал:
 -----------------------------------
